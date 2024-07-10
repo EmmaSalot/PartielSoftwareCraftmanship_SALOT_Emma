@@ -24,3 +24,7 @@ Il devrait y avoir plus de démos avec le client, même si c'est difficile avec 
 -L'utilisation d'une RuntimeException générique n'est pas une bonne pratique. Des exceptions plus spécifiques devraient être utilisées pour avoir un meilleur contexte d'erreur.
 
 -Le pourcentage de remise (10%) est codé en dur. Il devrait être défini comme une constante.
+
+
+Commenter pour le Kata:  
+Le test "test_survivant_rencontre_zombie" ne passe pas toujours comme le mouvement du zombie et les dégats sont aléatoires.
